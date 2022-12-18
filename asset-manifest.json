@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Counter/static/js/main.5f3b08cd.js",
+    "index.html": "/Counter/index.html",
+    "main.5f3b08cd.js.map": "/Counter/static/js/main.5f3b08cd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5f3b08cd.js"
+  ]
+}
